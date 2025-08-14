@@ -34,3 +34,27 @@ Coming soon — hands-on security labs & write-ups will be added here.
 ---
 
 ⭐ *Thanks for visiting my profile! Follow me to see my progress.*
+---
+
+## 🛠️ Skills & Tools
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqasAliKhan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WaqasAliKhan&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=WaqasAliKhan&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Contribution Graph
+![Waqas's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WaqasAliKhan&theme=tokyonight)
+
