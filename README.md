@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Waqas Ali Khan
 
-<!--
-**Waqas-Ali-Khan/Waqas-Ali-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring SOC Analyst | Learning Cybersecurity Fundamentals | Documenting My Journey**
 
-Here are some ideas to get you started:
+🔹 Currently learning: Threat detection, incident response, and network monitoring basics  
+🔹 Building: A portfolio of hands-on security labs and case studies  
+🔹 Goal: To become a skilled Security Operations Center (SOC) Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools I’m Learning
+- SIEM tools (Splunk, ELK Stack)
+- Linux & Windows security basics
+- Networking fundamentals
+- Incident response process
+
+---
+
+## 📂 Featured Projects
+Coming soon — hands-on security labs & write-ups will be added here.
+
+---
+
+## 📫 Connect with Me
+- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+---
+
+⭐ *Thanks for visiting my profile! Follow me to see my progress.*
