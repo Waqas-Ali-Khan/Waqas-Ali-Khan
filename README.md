@@ -1,3 +1,8 @@
+![Profile Views](https://komarev.com/ghpvc/?username=WaqasAliKhan&color=blue)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20SOC-orange)
+![Learning](https://img.shields.io/badge/Learning-Threat%20Detection%20%7C%20Incident%20Response-blueviolet)
+
 # 👋 Hi, I’m Waqas Ali Khan
 
 **Aspiring SOC Analyst | Learning Cybersecurity Fundamentals | Documenting My Journey**
