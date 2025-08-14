@@ -43,7 +43,6 @@ Coming soon — hands-on security labs & write-ups will be added here.
 📌 *This timeline will be updated as I progress in my SOC Analyst career.*
 
 ---
----
 
 ## 📜 Certifications & Learning Progress
 
