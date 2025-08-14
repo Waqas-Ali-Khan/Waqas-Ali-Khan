@@ -22,8 +22,9 @@ Coming soon — hands-on security labs & write-ups will be added here.
 ---
 
 ## 📫 Connect with Me
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email:** waqas.alikhan963@gmail.com
+- **LinkedIn:** (Coming soon)
+
 
 ---
 
