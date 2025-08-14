@@ -43,6 +43,19 @@ Coming soon — hands-on security labs & write-ups will be added here.
 📌 *This timeline will be updated as I progress in my SOC Analyst career.*
 
 ---
+---
+
+## 📜 Certifications & Learning Progress
+
+| Certification / Course | Status | Progress |
+|------------------------|--------|----------|
+| **Google Cybersecurity Professional** | ⏳ In Progress | ![70%](https://progress-bar.dev/70) |
+| **TryHackMe SOC Level 1** | ⏳ In Progress | ![50%](https://progress-bar.dev/50) |
+| **CompTIA Security+ (Self-Study)** | 📝 Studying | ![30%](https://progress-bar.dev/30) |
+| **Linux Essentials** | ✅ Completed | ![100%](https://progress-bar.dev/100) |
+
+---
+
 
 ## 📫 Connect with Me
 - **Email:** waqas.alikhan963@gmail.com
