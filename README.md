@@ -26,6 +26,24 @@ Coming soon — hands-on security labs & write-ups will be added here.
 
 ---
 
+## 📅 SOC Analyst Journey Timeline
+
+| Date       | Milestone | Status |
+|------------|-----------|--------|
+| **Aug 2025** | Started building SOC labs & playbooks | 🟢 Completed |
+| **Sep 2025** | Begin 5th semester (BSCS) | 🟡 In Progress |
+| **Oct 2025** | Complete Blue Team Labs (Incident Response) | ⏳ Planned |
+| **Dec 2025** | Publish 10 SOC Playbooks on GitHub | ⏳ Planned |
+| **Mar 2026** | Earn CompTIA Security+ | ⏳ Planned |
+| **Aug 2026** | Internship in SOC Environment | ⏳ Planned |
+| **2027** | Graduate BSCS | ⏳ Planned |
+
+---
+
+📌 *This timeline will be updated as I progress in my SOC Analyst career.*
+
+---
+
 ## 📫 Connect with Me
 - **Email:** waqas.alikhan963@gmail.com
 - **LinkedIn:** (Coming soon)
