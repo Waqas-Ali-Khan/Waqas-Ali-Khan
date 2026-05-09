@@ -71,20 +71,20 @@
 ## 📊 Network Telemetry (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Waqas-Ali-Khan&show_icons=true&theme=tokyonight&hide_border=true" alt="Waqas's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas-Ali-Khan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Waqas-Ali-Khan&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149&hide_border=true" alt="Waqas's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waqas-Ali-Khan&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Waqas-Ali-Khan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Waqas-Ali-Khan&background=0d1117&ring=f85149&fire=f85149&currStreakNum=c9d1d9&sideNums=58a6ff&sideLabels=c9d1d9&dates=58a6ff&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waqas-Ali-Khan&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Waqas-Ali-Khan&bg_color=0d1117&color=c9d1d9&line=f85149&point=58a6ff&title_color=58a6ff&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br><br>
