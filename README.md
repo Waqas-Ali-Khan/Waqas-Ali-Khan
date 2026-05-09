@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=Waqas-Ali-Khan&color=blue&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Operational-brightgreen?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Threat_Intelligence_%7C_SOC-orange?style=flat-square" alt="Focus" />
