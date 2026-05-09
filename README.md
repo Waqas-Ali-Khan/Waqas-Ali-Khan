@@ -1,69 +1,63 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=WaqasAliKhan&color=blue)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20SOC-orange)
-![Learning](https://img.shields.io/badge/Learning-Threat%20Detection%20%7C%20Incident%20Response-blueviolet)
+![Certifications](https://img.shields.io/badge/Certified-Google%20%7C%20Cisco%20%7C%20IBM-blue)
 
 # 👋 Hi, I’m Waqas Ali Khan
 
-**Aspiring SOC Analyst | Learning Cybersecurity Fundamentals | Documenting My Journey**
+**Certified Cybersecurity Analyst | 6th Semester BSCS | Professional Threat Intelligence & Log Analysis**
 
-🔹 Currently learning: Threat detection, incident response, and network monitoring basics  
-🔹 Building: A portfolio of hands-on security labs and case studies  
-🔹 Goal: To become a skilled Security Operations Center (SOC) Analyst
+🔹 **Currently:** Transitioning into Phase 4 (Interview Domination) of a 56-day operational matrix.
+🔹 **Specialization:** Endpoint telemetry (Sysmon), network traffic analysis (Wireshark), and SIEM logic (Wazuh/ELK).
+🔹 **Goal:** Securing a Tier-1 SOC internship at TISS or Rewterz for the Summer 2026 intake.
 
 ---
 
-## 🚀 Skills & Tools I’m Learning
-- SIEM tools (Splunk, ELK Stack)
-- Linux & Windows security basics
-- Networking fundamentals
-- Incident response process
+## 🚀 Technical Skillset
+* [cite_start]**SIEM & IDS:** Triage and rule authoring in Wazuh, ELK Stack, and Splunk[cite: 2411].
+* [cite_start]**Languages & Querying:** Beginner-level Python (Automation), SQL, and advanced Linux CLI[cite: 2411, 2413].
+* [cite_start]**Core Operations:** Threat analysis, investigation, and incident response frameworks[cite: 2374, 2375, 2376, 2445].
+* [cite_start]**Architecture:** Knowledgeable in cybersecurity architecture, compliance standards, and forensics[cite: 2428, 2429, 2445].
 
 ---
 
 ## 📂 Featured Projects
-Coming soon — hands-on security labs & write-ups will be added here.
+* **[Enterprise-Threat-Telemetry](https://github.com/Waqas-Ali-Khan/Enterprise-Threat-Telemetry):** Raw log analysis and execution telemetry for SideWinder APT and Blue Locker Ransomware.
+* **[Full-Attack-Chain-Correlation]:** Unified timeline mapping phishing, execution, and C2 beaconing across multiple logs.
 
 ---
 
 ## 📅 SOC Analyst Journey Timeline
 
-| Date       | Milestone | Status |
-|------------|-----------|--------|
-| **Aug 2025** | Started building SOC labs & playbooks | 🟢 Completed |
-| **Sep 2025** | Begin 5th semester (BSCS) | 🟡 In Progress |
-| **Oct 2025** | Complete Blue Team Labs (Incident Response) | ⏳ Planned |
-| **Dec 2025** | Publish 10 SOC Playbooks on GitHub | ⏳ Planned |
-| **Mar 2026** | Earn CompTIA Security+ | ⏳ Planned |
-| **Aug 2026** | Internship in SOC Environment | ⏳ Planned |
-| **2027** | Graduate BSCS | ⏳ Planned |
-
----
-
-📌 *This timeline will be updated as I progress in my SOC Analyst career.*
+| Date | Milestone | Status |
+| :--- | :--- | :--- |
+| **Aug 2025** | Earned Google Cybersecurity Professional Certificate | [cite_start]✅ Completed [cite: 2406, 2408] |
+| **Aug 2025** | Completed CISSP Specialization (8 Domains) | [cite_start]✅ Completed [cite: 2347, 2351] |
+| **Sep 2025** | Earned IBM Cybersecurity Analyst Professional Certificate | [cite_start]✅ Completed [cite: 2437, 2439] |
+| **Sep 2025** | Earned Cisco Cybersecurity Operations Fundamentals | [cite_start]✅ Completed [cite: 2377, 2380] |
+| **Feb 2026** | **Current 6th Semester (BSCS)** | 🟡 In Progress |
+| **May 2026** | Phase 3: Portfolio Deployment & Proof-of-Work | 🟢 Active |
+| **Aug 2026** | Target: SOC Internship (TISS/Rewterz) | ⏳ Planned |
 
 ---
 
 ## 📜 Certifications & Learning Progress
 
 | Certification / Course | Status | Progress |
-|------------------------|--------|----------|
-| **Google Cybersecurity Professional** | ⏳ In Progress | ![70%](https://progress-bar.dev/70) |
-| **TryHackMe SOC Level 1** | ⏳ In Progress | ![50%](https://progress-bar.dev/50) |
-| **CompTIA Security+ (Self-Study)** | 📝 Studying | ![30%](https://progress-bar.dev/30) |
-| **Linux Essentials** | ✅ Completed | ![100%](https://progress-bar.dev/100) |
+| :--- | :--- | :--- |
+| **Google Cybersecurity Professional** | ✅ Completed | [cite_start]![100%](https://progress-bar.dev/100) [cite: 2406] |
+| **CISSP Specialization (InfoSec)** | ✅ Completed | [cite_start]![100%](https://progress-bar.dev/100) [cite: 2347] |
+| **IBM Cybersecurity Analyst** | ✅ Completed | [cite_start]![100%](https://progress-bar.dev/100) [cite: 2437] |
+| **Cisco CyberOps Fundamentals** | ✅ Completed | [cite_start]![100%](https://progress-bar.dev/100) [cite: 2377] |
+| **CompTIA Security+ (Self-Study)** | 📝 Studying | ![40%](https://progress-bar.dev/40) |
+| **TryHackMe SOC Level 1** | 🟢 Active | ![75%](https://progress-bar.dev/75) |
 
 ---
-
 
 ## 📫 Connect with Me
 - **Email:** waqas.alikhan963@gmail.com
 - **LinkedIn:** (Coming soon)
 
-
----
-
-⭐ *Thanks for visiting my profile! Follow me to see my progress.*
 ---
 
 ## 🛠️ Skills & Tools
@@ -71,20 +65,11 @@ Coming soon — hands-on security labs & write-ups will be added here.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 ![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaqasAliKhan&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WaqasAliKhan&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=WaqasAliKhan&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Contribution Graph
-![Waqas's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WaqasAliKhan&theme=tokyonight)
-
