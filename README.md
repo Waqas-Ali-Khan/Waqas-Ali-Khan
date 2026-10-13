@@ -48,7 +48,7 @@
 | **CISSP Specialization (8 Domains)** | ISC2 / InfoSec | ✅ Completed (Aug 2025) |
 | **IBM Cybersecurity Analyst Professional** | IBM | ✅ Completed (Sep 2025) |
 | **Cybersecurity Operations Fundamentals** | Cisco | ✅ Completed (Sep 2025) |
-| **Bachelor of Computer Science (6th Sem)** | University | 🟡 In Progress |
+| **Bachelor of Computer Science (7th Sem)** | University | 🟡 In Progress |
 
 <br>
 
